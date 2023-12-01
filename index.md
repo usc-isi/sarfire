@@ -4,7 +4,7 @@ layout: default
 
 Testing... 123!
 
-#Text can be **bold**, _italic_, or ~~strikethrough~~.
+//#Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 #[Link to another page](./another-page.html).
 
