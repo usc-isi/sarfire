@@ -96,7 +96,7 @@ end
 
 ### Small image
 
-![Octocat](github.com/usc-isi/sarfire/blob/main/assets/images/wf_slide.png)
+![Octocat](assets/images/wf_slide.png)
 
 ### Large image
 
