@@ -9,5 +9,5 @@ layout: default
 ![](https://usc-isi.github.io/sarfire/assets/images/image_formation.png)
 ![](https://usc-isi.github.io/sarfire/assets/images/iq_comparison.png)
 ![](https://usc-isi.github.io/sarfire/assets/images/fire_radar.png)
-![](https://usc-isi.github.io/sarfire/assets/images/change_detect.png)
+![](https://usc-isi.github.io/sarfire/assets/images/change_detect_2.png)
 ![](https://usc-isi.github.io/sarfire/assets/images/big_picture.png)
