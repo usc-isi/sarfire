@@ -96,7 +96,7 @@ Testing... 123!
 
 ### Small image
 
-!(https://usc-isi.github.io/sarfire/assets/images/wf_slide.png)
+![](https://usc-isi.github.io/sarfire/assets/images/wf_slide.png)
 
 ### Large image
 
